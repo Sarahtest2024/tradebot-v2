@@ -218,7 +218,7 @@ async function callTradeBot(query: string): Promise<string> {
     console.log('🤖 TradeBot API: Making call to OpenAI...');
     
     const completion = await openai.chat.completions.create({
-      model: "gpt-4",
+      model: "gpt-4o",
       messages: [
         {
           role: "system",
