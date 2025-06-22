@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "name": "QuickFix Plumbing",
+    "location": "London & Surrounding Areas",
+    "phone": "07123 456789",
+    "website": "quickfixplumbing.co.uk",
+    "description": "24/7 emergency plumbing. No call-out fee for jobs over £100. Boiler servicing, leak repairs, bathroom installations.",
+    "keywords": ["plumber", "plumbing", "leak", "toilet", "boiler", "bathroom", "pipe"],
+    "area": "london"
+  },
+  {
+    "id": "2",
+    "name": "Bright Spark Electrical",
+    "location": "Manchester",
+    "phone": "07987 654321",
+    "website": "brightspark-electrical.com",
+    "description": "Part P certified electricians. Rewiring, fuse box upgrades, EV charger installations. Free quotes, 2-year guarantee.",
+    "keywords": ["electrician", "electrical", "wiring", "power", "fuse box", "ev charger"],
+    "area": "manchester"
+  },
+  {
+    "id": "3",
+    "name": "Ace Building Services",
+    "location": "Birmingham & West Midlands",
+    "phone": "07456 789123",
+    "website": "acebuildingservices.co.uk",
+    "description": "Extensions, loft conversions, kitchen fitting. 15 years experience. Fully insured. See our work on Instagram @acebuildingbham",
+    "keywords": ["builder", "building", "extension", "loft", "kitchen", "renovation", "conversion"],
+    "area": "birmingham"
+  },
+  {
+    "id": "4",
+    "name": "The Handyman Hub",
+    "location": "Bristol",
+    "phone": "07789 123456",
+    "description": "Small jobs specialist. Flat pack furniture, shelving, painting, odd jobs. Same day service available. No job too small.",
+    "keywords": ["handyman", "furniture", "shelving", "painting", "odd jobs", "small jobs"],
+    "area": "bristol"
+  }
+] 
